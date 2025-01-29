@@ -14,7 +14,13 @@ SpecificNotes : FloatingActionButton
 PhoneBook : Scaffold
 
 <br>
+
+DailyPlannerNotes : SnackbarModalNavigationDrawer
+
 <br>
+
+
+
 <br>
 <br>
 <br>
