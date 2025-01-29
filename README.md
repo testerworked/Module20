@@ -7,7 +7,7 @@ AutoConfigurator : RadioButton
 
 <br>
 
-
+SpecificNotes : FloatingActionButton
 
 <br>
 <br>
